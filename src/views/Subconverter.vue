@@ -258,6 +258,21 @@ export default {
         backendOptions: [{ value: "http://127.0.0.1:25500/sub?" }],
         remoteConfig: [
           {
+            label: "my-strategy-group",
+            options: [
+              {
+                label: "full",
+                value:
+                  "https://raw.githubusercontent.com/Feiyuyu0503/subconverteriniexample/master/router.ini"
+              },
+              {
+                label: "others",
+                value:
+                  "https://raw.githubusercontent.com/Feiyuyu0503/subconverteriniexample/master/noemoji.ini"
+              }
+            ]
+          },
+          {
             label: "universal",
             options: [
               {
