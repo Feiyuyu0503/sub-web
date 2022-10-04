@@ -1,4 +1,4 @@
-# sub-web
+# sub-web [![Build](https://github.com/Feiyuyu0503/sub-web/actions/workflows/build.yml/badge.svg)](https://github.com/Feiyuyu0503/sub-web/actions/workflows/build.yml)
 
 基于 vue-cli 与 [tindy2013/subconverter](https://github.com/tindy2013/subconverter) 后端实现的配置自动生成。
 
