@@ -261,6 +261,11 @@ export default {
             label: "my-strategy-group",
             options: [
               {
+                label: "auto+basic",
+                value:
+                  "https://raw.githubusercontent.com/Feiyuyu0503/subconverteriniexample/master/auto_basic.ini"
+              },
+              {
                 label: "full",
                 value:
                   "https://raw.githubusercontent.com/Feiyuyu0503/subconverteriniexample/master/router.ini"
